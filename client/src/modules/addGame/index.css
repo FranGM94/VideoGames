@@ -1,0 +1,44 @@
+
+.form{
+  display: flex;
+  flex-direction: column;
+  margin: 0px 330px;
+  border: 2px solid #fff000;
+  border-radius: 10px;
+  padding: 15px;
+  color: white;
+  background-color: none;
+}
+
+.title{
+  color: white;
+  text-align: center;
+  padding-bottom: 0px;
+  top: 15px;
+  position: relative;
+  right: 17%;
+  text-decoration: underline #fff000;
+}
+
+.back__button{
+  position: fixed;
+  left: 5%;
+  top: 10%;
+  text-decoration: none;
+  padding: 10px;
+  color: whitesmoke;
+  border: 2px solid #FFFF00;
+  border-radius: 10px;
+  
+}
+
+.loading{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: underline 2px #fff000;
+}
+
+
+

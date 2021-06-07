@@ -1,0 +1,17 @@
+.loading__page {
+    position: fixed;
+    min-height: 100%;
+    min-width: 100%;
+    background-image: url("../../images/pacman-black-hd-1080P-wallpaper.jpg");
+    background-size: 100%;
+    
+}
+
+.loading__element{
+    position: fixed;
+    top: 30%;
+    right: 40%;
+    color: white;
+    text-decoration: none;
+    font-size: 50px;
+}
